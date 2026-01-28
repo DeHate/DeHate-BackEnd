@@ -2,7 +2,7 @@
 # .DeHate - API de Moderação de Comentários Ofensivos
 
 **.DeHate** é uma API desenvolvida em **Python com FastAPI** que conecta-se à conta do YouTube de um criador de conteúdo, coleta os vídeos e comentários de seu canal e utiliza uma LLM (Large Language Model) para detectar e remover automaticamente comentários ofensivos.
-
+ 
 ---
 
 ## 📌 Índice
